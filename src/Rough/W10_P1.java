@@ -1,3 +1,5 @@
+package Rough;
+
 import java.util.*;
 
 public class W10_P1 {
